@@ -1,0 +1,21 @@
+﻿Build started 5/1/2017 8:48:15 AM.
+     1>Project "C:\Users\Clinton\Documents\Software Engineering\Alex\MFCGUIClusterSim\MFCGUIClusterSim\MFCGUIClusterSim.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ClusterGuISim.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\MFCGUIClusterSim.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt MFCGUIClusterSimDlg.cpp
+         MFCGUIClusterSimDlg.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Clinton\Documents\Software Engineering\Alex\MFCGUIClusterSim\Debug\MFCGUIClusterSim.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"C:\Users\Clinton\Documents\Software Engineering\Alex\MFCGUIClusterSim\Debug\MFCGUIClusterSim.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Clinton\Documents\Software Engineering\Alex\MFCGUIClusterSim\Debug\MFCGUIClusterSim.lib" /MACHINE:X86 Debug\MFCGUIClusterSim.res
+         Debug\ADDFRAME.obj
+         Debug\Cluster.obj
+         Debug\MFCGUIClusterSim.obj
+         Debug\MFCGUIClusterSimDlg.obj
+         Debug\Node.obj
+         Debug\Processor.obj
+         Debug\stdafx.obj
+         MFCGUIClusterSim.vcxproj -> C:\Users\Clinton\Documents\Software Engineering\Alex\MFCGUIClusterSim\Debug\MFCGUIClusterSim.exe
+     1>Done Building Project "C:\Users\Clinton\Documents\Software Engineering\Alex\MFCGUIClusterSim\MFCGUIClusterSim\MFCGUIClusterSim.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.16

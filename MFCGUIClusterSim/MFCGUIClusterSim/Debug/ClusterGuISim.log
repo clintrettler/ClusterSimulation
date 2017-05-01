@@ -1,0 +1,19 @@
+﻿Build started 4/26/2017 9:00:22 AM.
+     1>Project "C:\Users\Clinton\Documents\Visual Studio 2015\Projects\ClusterGuISim\ClusterGuISim\ClusterGuISim.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt MasterNode.cpp
+         MasterNode.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /nologo /fo"Debug\ClusterGuISim.res" ClusterGuISim.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Clinton\Documents\Visual Studio 2015\Projects\ClusterGuISim\Debug\ClusterGuISim.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"C:\Users\Clinton\Documents\Visual Studio 2015\Projects\ClusterGuISim\Debug\ClusterGuISim.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Clinton\Documents\Visual Studio 2015\Projects\ClusterGuISim\Debug\ClusterGuISim.lib" /MACHINE:X86 Debug\ClusterGuISim.res
+         Debug\Cluster.obj
+         Debug\Node.obj
+         Debug\MasterNode.obj
+         ClusterGuISim.vcxproj -> C:\Users\Clinton\Documents\Visual Studio 2015\Projects\ClusterGuISim\Debug\ClusterGuISim.exe
+     1>Done Building Project "C:\Users\Clinton\Documents\Visual Studio 2015\Projects\ClusterGuISim\ClusterGuISim\ClusterGuISim.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.53
